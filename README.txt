@@ -13,3 +13,6 @@ Sites examples: https://sitesee.co/
 Options
 Background color: #F7F7F5
 
+Sources:
+GitHub: https://youtu.be/2qfyLfXEPzs?si=cw1NJ0tX4g4MVMOI
+Vue: https://youtu.be/U_-Ht_v-oAs?si=HNdP3nCZgDNAfwUU
