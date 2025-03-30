@@ -1,9 +1,4 @@
-<script setup>
-defineProps({
-  title: String,
-  price: Number,
-})
-</script>
+<script></script>
 
 <template>
   <div class="product">
