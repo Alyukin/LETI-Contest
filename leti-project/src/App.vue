@@ -67,7 +67,7 @@
     <div class="content-header rectangle-1">
       <h1 class="content-header-text-h1">Оглавление</h1>
       <div class="content-text-sections">
-        <h2 class="content-header-text-h2"><span class="large-bullet">•</span> &nbsp; Основание университета</h2>
+        <h2 class="content-header-text-h2"><span class="large-bullet">•</span> &nbsp;Основание университета</h2>
         <h2 class="content-header-text-h2"><span class="large-bullet">•</span> &nbsp;Становление советского образования</h2>
         <h2 class="content-header-text-h2"><span class="large-bullet">•</span> &nbsp;Развитие в советский период</h2>
         <h2 class="content-header-text-h2"><span class="large-bullet">•</span> &nbsp;Современный период</h2>
