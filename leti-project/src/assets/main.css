@@ -19,3 +19,81 @@ body {
   animation-timeline: view();
   animation-range: entry 0 cover 32%;
 }
+
+.text-period-header {
+  color: #383838;
+  text-align: left;
+  font-family: 'Cormorant', serif;
+  font-size: 50px;
+  font-weight: 600;
+  line-height: 115%;
+  margin-bottom: 20px;
+}
+.text-age-header {
+  color: #383838;
+  text-align: left;
+  font-family: 'Cormorant', serif;
+  font-size: 50px;
+  font-weight: 300;
+  line-height: 115%;
+  margin-bottom: 20px;
+}
+.quote-box {
+  box-sizing: border-box;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 70px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 50px;
+}
+.tour-box {
+  box-sizing: border-box;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+  border-radius: 50px;
+}
+.inter-regular {
+  color: #383838;
+  text-align: left;
+  font-family: 'Inter', sans-serif;
+  font-optical-sizing: auto;
+  position: relative;
+}
+.inter-text-h1 {
+  font-family: Inter;
+  color: black;
+  font-weight: 900;
+}
+.inter-text-800 {
+  font-family: Inter;
+  color: black;
+  font-weight: 800;
+}
+.inter-text-h2 {
+  font-family: Inter;
+  color: black;
+  font-size: 24px;
+  font-weight: 700;
+}
+.inter-text-h3 {
+  font-family: Inter;
+  color: black;
+  font-weight: 400;
+}
+.merriweather-regular {
+  font-family: 'Merriweather', serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.inter {
+  font-family: 'Inter';
+}
+.yeseva-one-h1 {
+  font-family: 'Yeseva One';
+  color: #333333;
+  font-weight: 400;
+}

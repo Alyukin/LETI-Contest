@@ -51,7 +51,7 @@ export default {
 .content-block {
   border-top: 3px solid #cbd190d5;
   width: 100%;
-  background-image: url('bg1.png');
+  background-image: url('bg-header.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
